@@ -1,6 +1,6 @@
 <?PHP
 // Parametros definidos por cada cliente:
-$email_saliente = " mba@iae.edu.ar"; // Email que envía los contactos recibidos en el formulario.
-$email_recibe = " mba@iae.edu.ar"; // Email que recibe los contactos recibidos.
-$asunto_email = "Contacto desde Landing - facebook"; //Asunto del email recibido.
+$email_saliente = " algun@mail.org"; // Email que envía los contactos recibidos en el formulario.
+$email_recibe = " otro@maiol.com"; // Email que recibe los contactos recibidos.
+$asunto_email = "Contacto desde algunlugar - lugar"; //Asunto del email recibido.
 ?>
